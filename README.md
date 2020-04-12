@@ -2,6 +2,8 @@
 
 It is a React application which stores, add and delete the contacts from a list.
 
+![](https://raw.githubusercontent.com/yash-me/React_contact_app/master/contact_app.png)
+
 ## Project Setup
 
 * clone the Project - `git clone https://github.com/yash-me/React_contact_app.git`
